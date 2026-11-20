@@ -1,0 +1,9 @@
+build/
+build-*/
+cmake-build-*/
+.vs/
+.vscode/
+*.o
+*.exe
+smartpark_progress.txt
+smartpark_settings.txt
